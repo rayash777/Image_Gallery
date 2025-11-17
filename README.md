@@ -163,12 +163,14 @@ lightbox.addEventListener('click', (e) => {
 });
 ```
 ## OUTPUT
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
-![alt text](image-5.png)
+<img width="1137" height="718" alt="image" src="https://github.com/user-attachments/assets/e5c3125b-fd74-48d9-8c6e-b02c52d58ccc" />
+<img width="1135" height="657" alt="image" src="https://github.com/user-attachments/assets/6ce14bd0-e905-4359-9c01-fd551a98eb0a" />
+<img width="1136" height="663" alt="image" src="https://github.com/user-attachments/assets/f53cb5df-32a2-4042-a785-ee2a1c216f06" />
+<img width="1137" height="655" alt="image" src="https://github.com/user-attachments/assets/22c8e83a-1d27-4cdd-87a9-d7aec00cf6f8" />
+<img width="1136" height="657" alt="image" src="https://github.com/user-attachments/assets/4c659046-77bf-4319-9e1a-d97960630e69" />
+<img width="1137" height="656" alt="image" src="https://github.com/user-attachments/assets/76e5480b-5e7e-4d8a-9a5c-c36c069e8ad5" />
+
+
 
 ## RESULT
   The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
